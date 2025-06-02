@@ -1,0 +1,34 @@
+{
+  "name": "express-tutorial-server",
+  "version": "1.0.0",
+  "description": "A Node.js tutorial project demonstrating Express.js web framework integration with multiple RESTful endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "audit": "npm audit"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "tutorial",
+    "web-server",
+    "rest-api"
+  ],
+  "author": "Tutorial Project",
+  "license": "MIT",
+  "engines": {
+    "node": ">=19"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "bugs": {
+    "url": "."
+  },
+  "homepage": "."
+}
